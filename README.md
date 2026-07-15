@@ -115,6 +115,16 @@ The trained model can classify unseen skin lesion images as:
 
 The model demonstrated effective classification performance on balanced skin lesion data and successfully identified benign and malignant samples during testing.
 
+## Sample Predictions
+
+### Benign Lesion Prediction
+
+![Benign Prediction](outputs/benign_prediction.png)
+
+### Malignant Lesion Prediction
+
+![Malignant Prediction](outputs/malignant_prediction.png)
+
 
 ## Project Structure
 
