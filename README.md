@@ -119,11 +119,11 @@ The model demonstrated effective classification performance on balanced skin les
 
 ### Benign Lesion Prediction
 
-![Benign Prediction](outputs/benign_prediction.png)
+![Benign Prediction](benign_prediction.png)
 
 ### Malignant Lesion Prediction
 
-![Malignant Prediction](outputs/malignant_prediction.png)
+![Malignant Prediction](malignant_prediction.png)
 
 
 ## Project Structure
