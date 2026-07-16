@@ -1,4 +1,4 @@
-# Skin Cancer Detection Using CNN
+# Skin Cancer Detection Using Deep Learning
 
 ## Overview
 
